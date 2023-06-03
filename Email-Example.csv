@@ -1,0 +1,11 @@
+email,keyword,lunghezza,intestazione,valida
+1,offerta,lunga,si,si
+2,offerta,lunga,no,si
+3,offerta,corta,no,no
+4,offerta,media,si,si
+5,money,media,no,no
+6,money,lunga,si,no
+7,money,corta,no,no
+8,viagra,lunga,si,no
+9,viagra ,lunga,no,si
+10,viagra,media,no,no
