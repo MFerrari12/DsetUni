@@ -66,7 +66,7 @@
     },{
       "name": "Silvio Berlusconi",
       "birth": "1939",
-      "death": "-1", 
+      "death": "0", 
       "hits": "209259",
       "PRank": "0.0008418567051510715",
       "paragraphs" : "296",
@@ -75,7 +75,7 @@
     },{
       "name": "Mario Draghi",
       "birth": "1947",
-      "death": "-1",
+      "death": "0",
       "hits": "50760",
       "PRank": "0.002227907764668385",
       "paragraphs" : "74",
