@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "nome": "Romolo",
+      "birth": "-753",
+      "death": "-717",
+      "hits": "211",
+      "PRank":"0.0002640590182809986",
+      "paragraphs" : "11",
+      "articleLenght" : "444",
+      "pageEdits": "10"
+    },{
+      "nome": "Cesare",
+      "birth": "-101",
+      "death": "-44",
+      "hits": "754",
+      "PRank":"0.0002643152592951712",
+      "paragraphs" : "35",
+      "articleLenght" : "1577",
+      "pageEdits": "55"
+    },{
+      "nome": "Dante Alighieri",
+      "birth": "1265",
+      "death": "1321", 
+      "hits": "243116",
+      "PRank":"0.0012676666494885293",
+      "paragraphs" : "104",
+      "articleLenght" : "32068",
+      "pageEdits": "5169"
+    },{
+      "nome": "Leonardo Da Vinci",
+      "birth": "1452",
+      "death": "1519", 
+      "hits": "881719",
+      "PRank":"0.0009260539699254934",
+      "paragraphs" : "124",
+      "articleLenght" : "57024",
+      "pageEdits": "5"
+    },{
+      "nome": "Benito Mussolini",
+      "birth": "1883",
+      "death": "1945",
+      "hits": "795713",
+      "PRank":"0.0008811732283219466",
+      "paragraphs" : "239",
+      "articleLenght" : "117618",
+      "pageEdits": "9088"
+    },{
+      "nome": "Umberto II di Savoia",
+      "birth": "1904",
+      "death": "1983",
+      "hits": "84878",
+      "PRank":"0.0012079470237407483",
+      "paragraphs" : "113",
+      "articleLenght" : "55577",
+      "pageEdits": "1"
+    },{
+      "nome": "Rita Levi Montalcini",
+      "birth": "1909",
+      "death": "2012",
+      "hits": "251904",
+      "PRank":"0.0009269123402438924",
+      "paragraphs" : "52",
+      "articleLenght" : "13508",
+      "pageEdits": "1"
+    },{
+      "nome": "Silvio Berlusconi",
+      "birth": "1939",
+      "death": "-1", 
+      "hits": "209259",
+      "PRank":"0.0008418567051510715",
+      "paragraphs" : "296",
+      "articleLenght" : "120842",
+      "pageEdits": "8010"
+    },{
+      "nome": "Mario Draghi",
+      "birth": "1947",
+      "death": "-1",
+      "hits": "50760",
+      "PRank":"0.002227907764668385",
+      "paragraphs" : "74",
+      "articleLenght" : "31752",
+      "pageEdits": "1083"
+    }
+  ]
+}
