@@ -1,45 +1,45 @@
-Numero	Comune	Abitanti
-1	Roma	2 748 109
-2	Milano	1 354 196
-3	Napoli	913 462
-4	Torino	841 600
-5	Palermo	630 167
-6	Genova	558 745
-7	Bologna	387 971
-8	Firenze	360 930
-9	Bari	316 015
-10	Catania	298 762
-11	Verona	255 588
-12	Venezia	250 369
-13	Messina	218 786
-14	Padova	206 496
-15	Trieste	198 417
-16	Parma	196 885
-17	Brescia	196 567
-18	Prato	195 820
-19	Taranto	188 098
-20	Modena	184 153
-21	Reggio Calabria	170 793
-22	Reggio Emilia	169 618
-23	Perugia	161 690
-24	Ravenna	155 751
-25	Livorno	152 914
-26	Rimini	149 211
-27	Cagliari	148 117
-28	Foggia	145 348
-29	Ferrara	129 340
-30	Latina	127 564
-31	Salerno	127 186
-32	Giugliano in Campania	123 679
-33	Monza	121 799
-34	Sassari	121 021
-35	Bergamo	119 534
-36	Pescara	118 657
-37	Trento	118 046
-38	Forlì	116 440
-39	Siracusa	116 244
-40	Vicenza	109 823
-41	Terni	106 370
-42	Bolzano	106 107
-43	Piacenza	102 465
-44	Novara	101 257
+Numero,Comune,Abitanti
+1,Roma,2 748 109
+2,Milano,1 354 196
+3,Napoli,913 462
+4,Torino,841 600
+5,Palermo,630 167
+6,Genova,558 745
+7,Bologna,387 971
+8,Firenze,360 930
+9,Bari,316 015
+10,Catania,298 762
+11,Verona,255 588
+12,Venezia,250 369
+13,Messina,218 786
+14,Padova,206 496
+15,Trieste,198 417
+16,Parma,196 885
+17,Brescia,196 567
+18,Prato,195 820
+19,Taranto,188 098
+20,Modena,184 153
+21,Reggio Calabria,170 793
+22,Reggio Emilia,169 618
+23,Perugia,161 690
+24,Ravenna,155 751
+25,Livorno,152 914
+26,Rimini,149 211
+27,Cagliari,148 117
+28,Foggia,145 348
+29,Ferrara,129 340
+30,Latina,127 564
+31,Salerno,127 186
+32,Giugliano in Campania,123 679
+33,Monza,121 799
+34,Sassari,121 021
+35,Bergamo,119 534
+36,Pescara,118 657
+37,Trento,118 046
+38,Forlì,116 440
+39,Siracusa,116 244
+40,Vicenza,109 823
+41,Terni,106 370
+42,Bolzano,106 107
+43,Piacenza,102 465
+44,Novara,101 257
